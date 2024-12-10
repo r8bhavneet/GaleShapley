@@ -23,26 +23,18 @@ The implementation uses random preference lists for hospitals and medical studen
 
 Clone the repository:
 ````
-```
 git clone https://github.com/r8bhavneet/GaleShapley.git
-```
 ````
 Navigate to the project directory:
-````
 ```
 cd GaleShapley
-```
 ````
 Ensure that you have C++ compiler(like g++) installed. You can then compile the code with:
-````
 ```
 g++ -o gale_shapley gale_shapley.cpp
 ```
-```
 Run the program:
-````
 ```
 ./gale_shapley
-```
 ```
 
