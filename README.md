@@ -15,7 +15,7 @@ The implementation uses random preference lists for hospitals and medical studen
 - **Algorithm Execution:** The algorithm matches hospitals to medical students while ensuring stability (no pair prefers each     other over their current matches).
 - **Output:** Prints the stable matching to the console.
 
-## **Code Structure
+## **Code Structure**
 - main(): Sets up random preference lists and calls the galeShapley function.
 - galeShapley(): Implements the Gale-Shapley algorithm and prints the matching.
 
